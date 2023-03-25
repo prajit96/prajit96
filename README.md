@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prajit Santra</h1>
 <h3 align="center">A passionate frontend developer</h3>
+<img src="https://miro.medium.com/max/1400/0*enrI7BXUzwJEomlq.gif" alt="gif" height="400px" width="100%"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prajit96&label=Profile%20views&color=0e75b6&style=flat" alt="prajit96" /> </p>
 
