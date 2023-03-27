@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React.js Redux and chakra-UI framework**
 
-- 👨‍💻 All of my projects are available at [portfolio](https://prajit96.github.io/)
+- 👨‍💻 All of my projects are available at https://prajit96.github.io/
 
 - 💬 Ask me about **HTML, CSS, JavaScripts, React**
 
