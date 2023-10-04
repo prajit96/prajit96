@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at https://prajit96.github.io/
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React**
+- 💬 Ask me about **HTML || CSS || JavaScript || React || Redux || Node.JS**
 
 - 📫 How to reach me **santraprajit@gmail.com**
 
