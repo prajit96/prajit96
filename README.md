@@ -10,11 +10,10 @@
 
 - 👨‍💻 All of my projects are available at https://prajit96.github.io/
 
-- 💬 Ask me about **HTML, CSS, JavaScripts, React**
+- 💬 Ask me about **HTML, CSS, JavaScript, React**
 
 - 📫 How to reach me **santraprajit@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1C79y8i9q7xgkG2qksnW1Oofhy2u8iIgk/view?usp=sharing](https://drive.google.com/file/d/1C79y8i9q7xgkG2qksnW1Oofhy2u8iIgk/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
